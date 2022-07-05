@@ -219,7 +219,7 @@ header {
 
 
 .second-section-background {
-    background: url(/images/bg-curve-desktop.svg) no-repeat;
+    background: url("bg-curve-desktop.svg") no-repeat;
     background-size: cover;
 }
 
